@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AjayDuddi&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AjayDuddi&theme=algolia&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayDuddi&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayDuddi&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AjayDuddi&theme=algolia&hide_border=true" />
 </div>
 
 <!-- ### 🔝 Top Contributed Repo
